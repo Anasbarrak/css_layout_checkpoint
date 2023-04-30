@@ -1,3 +1,10 @@
+.main-nav{
+    zoom: 1;
+    max-width: 1015px;
+    padding: 0 20px;
+    margin: 0 auto;
+    position: relative;
+}
 .section__inner {
     zoom: 1;
     max-width: 1015px
